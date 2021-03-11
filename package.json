@@ -65,11 +65,13 @@
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "helmet": "^4.4.1",
+    "http-single-serve": "^1.0.0",
     "http-status-codes": "^2.1.4",
     "jet-logger": "^1.0.4",
     "jsonfile": "^6.1.0",
     "module-alias": "^2.2.2",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "websocket-game-lobby": "^4.1.1"
   },
   "devDependencies": {
     "@types/command-line-args": "^5.0.0",
